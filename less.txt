@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 master
 
 mastermastermastermastermastermastermastermastermastermastermastermastermastermaster
@@ -149,3 +150,7 @@ master
 mastermaster
 
 master
+=======
+
+lession1
+>>>>>>> lession1
